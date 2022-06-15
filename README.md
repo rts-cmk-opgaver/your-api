@@ -18,9 +18,15 @@ Du skal ***IKKE*** lave selve webshoppen, kun APIet.
 
 ## Krav
 
+Du skal lave din opgave i dette repository.
+
 APIet skal laves med Express og MongoDB.
 
 APIet skal dokumenteres med Insomnia og `insomnia-documenter`.
+
+APIet skal offentliggøres på Heroku.
+
+Du skal bruge GitHub.
 
 Foreslag til ressurse-endpoints:
 
@@ -44,10 +50,6 @@ POST   /api/v1/users/:id/orders
 
 ... og andre du selv finder på, men som giver mening til dit API
 ```
-
-APIet skal offentliggøres på Heroku.
-
-Du skal bruge GitHub.
 
 ## Hvis du vil gøre APIet lidt mere avanceret
 
