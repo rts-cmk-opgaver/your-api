@@ -60,3 +60,21 @@ Du skal sikre dig at APIet er et `Level 3 REST API`.
 Lav et administrator-panel i React (eller lign.), hvor en virksomhedsejer kan logge ind og redigere i sine produkter (tilføj, hent, rediger, slet - CRUD).
 
 Et foreslag til hvordan sådan et panel kan se ud, kan du finde her: https://github.com/rts-cmk/admin-panel
+
+## Hjælp
+
+Du kan finde hjælp på følgende ressurser:
+
+- https://mongoosejs.com/docs/index.html
+- http://expressjs.com/
+- https://github.com/BrianEmilius/brians-osteapi
+
+## Pakker
+
+- express
+- mongoose
+- body-parser
+- bcryptjs
+- nodemon
+- dotenv
+- insomnia-documenter
